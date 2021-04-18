@@ -1,0 +1,7 @@
+ID;name;login;password;ip;lastener;Services;type
+1;Petrov Bogdan;petr;tre34;192.168.90.132;01.10.2020 0:00;"[{CODES:""12""}{CODES:""3""}]";1
+2;IvanovSergey;ivan;fds2234;152.45.124.12;13.10.2020 0:00;"[{CODES:""04""}{CODES:""05""}]";2
+3;Mihalov Sema;sema;DFE345;12.56.234.11;14.10.2020 0:00;;3
+4;Pavlov Ivan;petr;tre34;192.168.90.132;01.10.2020 0:00;"[{CODES:""12""}{CODES:""3""}]";2
+5;Peshkin Sergey;ivan;fds2234;152.45.124.12;13.10.2020 0:00;"[{CODES:""04""}{CODES:""05""}]";1
+6;Sidorova Mashf;sema;DFE345;12.56.234.11;14.10.2020 0:00;;3

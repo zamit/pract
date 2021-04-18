@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Services>
+		<Service>
+			<ID>1</ID>
+			<Name>Гемоглобин</Name>
+			<price>150</price>
+		</Service>
+		<Service>
+			<ID>2        </ID>
+			<Name>Альбумин</Name>
+			<price>250</price>
+		</Service>
+		<Service>
+			<ID>3        </ID>
+			<Name>Лейкоциты</Name>
+			<price>152.78</price>
+		</Service>
+			<Service>
+			<ID>4</ID>
+			<Name>ОАМ</Name>
+			<price>170</price>
+		</Service>
+		<Service>
+			<ID>5       </ID>
+			<Name>Альбуцит</Name>
+			<price>240.30</price>
+		</Service>
+		<Service>
+			<ID>6        </ID>
+			<Name>Общий анализ</Name>
+			<price>152.78</price>
+		</Service>
+	</Services>
